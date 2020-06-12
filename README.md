@@ -11,7 +11,7 @@
 1. افتح رابط الواجب من [هنا](https://github.com/kuwaitcodes/ios-hw-3)
 2. لمجلد الواجب Fork قم بعمل
 3. Open in GitHub Desktop قم بفتح الواجب عن طريق 
-4. Xcode قم بفتح المشروع بالـ
+4. Xcode قم بإنشاء المشروع جديد بالـ
 5. **XO** قم يتطبيق لعبةالـ
 6. الفيديوهات  موجوده [هنا](https://app.code.kw/%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D9%8A%D9%81%D9%88%D9%86-%D9%85%D8%B9-%D8%B3%D9%88%D9%8A%D9%81%D8%AA-Swift-KFAS/ios-%D8%AA%D9%85%D8%A7%D8%B1%D9%8A%D9%86/ios-x-o/%D8%AA%D8%B5%D9%85%D9%8A%D9%85-%D9%88%D8%A7%D8%AC%D9%87%D8%A9-x-o) 
 
